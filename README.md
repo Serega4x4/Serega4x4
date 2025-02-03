@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sergei (Serega4x4)  
 
-<!--
-**Serega4x4/Serega4x4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Developer** | PHP | Python | C++ | Linux  
 
-Here are some ideas to get you started:
+🔧 **Tech Stack:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐘 PHP 7+  
+- Laravel 9+ (Backend)  
+- ORM (Eloquent)  
+- Composer  
+- REST API  
+- VS Code / PHPStorm  
+
+### 🐍 Python 3  
+- Django 4+ (Backend)  
+- ORM  
+- Parsing / Scraping  
+- PyCharm  
+
+### ⚙️ C++ (98, 11, 14, 17)  
+- STL  
+- Templates  
+
+### 💻 Other Skills  
+- Linux  
+- HTML / CSS  
+- Git  
+- SQL (MySQL / SQLite)  
+- OOP (Object-Oriented Programming)  
+- Computer Architecture
+- Docker  
+
+📫 **Contact me:**  
+- Telegram: [t.me/Tamagochi4x4](https://t.me/Tamagochi4x4)  
+- Email: [serega1988bykov@gmail.com](mailto:serega1988bykov@gmail.com)  
+- GitHub: [github.com/Serega4x4](https://github.com/Serega4x4)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Serega4x4&show_icons=true&theme=dark)
+
