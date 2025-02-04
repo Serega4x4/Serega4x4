@@ -28,7 +28,8 @@
 - SQL (MySQL / SQLite)  
 - OOP (Object-Oriented Programming)  
 - Computer Architecture
-- Docker  
+- Docker
+- Postman  
 
 📫 **Contact me:**  
 - Telegram: [t.me/Tamagochi4x4](https://t.me/Tamagochi4x4)  
