@@ -4,15 +4,15 @@
 
 🔧 **Tech Stack:**  
 
-### 🐘 PHP 7+  
-- Laravel 9+ (Backend)  
+### 🐘 PHP   
+- Laravel  (Backend)  
 - ORM (Eloquent)  
 - Composer  
 - REST API  
 - VS Code / PHPStorm  
 
-### 🐍 Python 3  
-- Django 4+ (Backend)  
+### 🐍 Python  
+- Django (Backend)  
 - ORM  
 - Parsing / Scraping  
 - PyCharm  
