@@ -55,10 +55,20 @@
 
 ---
 
-📫 **Contact me:**  
-- Telegram: [t.me/Tamagochi4x4](https://t.me/Tamagochi4x4)  
-- Email: [serega1988bykov@gmail.com](mailto:serega1988bykov@gmail.com)  
-- GitHub: [github.com/Serega4x4](https://github.com/Serega4x4)  
+📫 **Contact me (click on the icon):**  
+
+<p>
+  <a href="https://t.me/Tamagochi4x4" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:serega1988bykov@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Serega4x4" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 
 ---
 
