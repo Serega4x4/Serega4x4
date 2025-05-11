@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sergei (Serega4x4)  
+# I'm Sergei (Serega4x4)  
 
 🚀 **Backend Developer** | PHP | Python | C++ | Linux  
 
